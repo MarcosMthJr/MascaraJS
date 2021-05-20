@@ -41,3 +41,5 @@ Caso esteja usando Internet Explorer acessando o arquivo no seu computador local
 
 ### Como alterar as cores de validação?
 Abra o arquivo **mascara.mim.js**, no fim do arquivo edite as variáveis **corCompleta** e **corIncompleta** para as cores desejadas.
+
+MMJ
